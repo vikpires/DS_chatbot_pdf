@@ -1,0 +1,2 @@
+output:
+According to Carroll (1997), human-machine interaction can be broadly defined as the study and practice of designing, implementing, and evaluating interactive computing systems for human use, as well as the study of major phenomena surrounding them. This encompasses the ways in which humans interact with computers and other machines, focusing on the interface design, user experience, and usability.
